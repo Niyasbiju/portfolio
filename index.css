@@ -1282,5 +1282,8 @@ ol li:nth-child(4) a:before {
 .contact2 {
   width: 80%;
 }
+  .box{
+    border:none;
 
 }
+
